@@ -1,0 +1,19 @@
+1 - Html, head e body.
+
+2 - Ul e ol.
+
+3 - Não, é uma linguagem de marcação.
+
+4 - Title.
+
+6 - Email e date.
+
+7 - Introduziu novos elementos, deixou de ter apenas elementos genéricos, passando a ter elementos semântico.
+
+8 - Serve para definir a versão do HTML que está sendo usada.
+
+9 - Cada nível tem um propósito específico, sendo h1 o cabeçalho e h2 ao h6 sendo cabeçalhos de níveis inferiores.
+
+10 - Elementos como p e img devem ser inseridos no body pois fazem parte do conteúdo visível da página.
+
+11 - Sim, podemos enviar dados usando dois métodos principais, get e post. A escolha entre os dois depende do tipo da operação realizada, sendo get para operações seguras e que não alteram dados no servidor e post para operações que envolvem envio dados sensíveis.
